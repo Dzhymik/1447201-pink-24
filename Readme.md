@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Dmytro Lahodniuk](https://up.htmlacademy.ru/adaptive/24/user/1447201).
-* Наставник: `Неизвестно`.
+* Наставник: [Mikael Magtesyan](https://htmlacademy.ru/profile/id1100875).
 
 ---
 
